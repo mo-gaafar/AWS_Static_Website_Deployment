@@ -1,4 +1,4 @@
-# AWSmStatic_Website Deployment
+# AWS Static Website Deployment
 
 This repository was done to demonstrate the steps needed to deploy a static website using amazon web services. Done for Udacity Cloud DevOps Nanodegree
 
